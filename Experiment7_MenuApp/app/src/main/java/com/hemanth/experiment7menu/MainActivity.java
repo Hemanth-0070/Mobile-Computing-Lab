@@ -1,4 +1,4 @@
-package com.example.menuitems;
+package com.hemanth.experiment7menu;
 
 import android.os.Bundle;
 import android.view.Menu;
@@ -8,7 +8,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     EditText editText;
     String clipboard = "";
 
